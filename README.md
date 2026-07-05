@@ -47,10 +47,6 @@ I design and build scalable web & mobile applications, REST APIs, ERP systems an
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojbh&show_icons=true&theme=tokyonight&hide_border=true)
-
 ## 📫 Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manojbh.github.io-5eead4?style=flat&logo=googlechrome&logoColor=white)](https://manojbh.github.io/)
