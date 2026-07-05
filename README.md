@@ -1,5 +1,7 @@
 # Hi there, I'm Manoj Bhattarai 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=manojbh&color=5eead4&style=flat&label=Profile+views)
+
 **Senior Software Developer & DevOps Engineer** from Kathmandu, Nepal 🇳🇵
 
 I design and build scalable web & mobile applications, REST APIs, ERP systems and e-commerce platforms — from clean code to cloud infrastructure and CI/CD, with AI agents automating the boring parts.
@@ -52,3 +54,11 @@ I design and build scalable web & mobile applications, REST APIs, ERP systems an
 [![Portfolio](https://img.shields.io/badge/Portfolio-manojbh.github.io-5eead4?style=flat&logo=googlechrome&logoColor=white)](https://manojbh.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manojbhattarai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojbhattarai/)
 [![Email](https://img.shields.io/badge/Email-manoj.vattarai@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manoj.vattarai@gmail.com)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojbh/manojbh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojbh/manojbh/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/manojbh/manojbh/output/github-contribution-grid-snake.svg">
+</picture>
